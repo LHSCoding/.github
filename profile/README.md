@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Largo High School Coding Club
+## Information
+A Coding Club at Largo High School.
+## How to join or help edit (if member of Coding Club)
+Send a message to D4LM or one of our leaders and we will add you.
+## How to join/create a team
+You should be able to join yourself and ask one of our leaders if you want to create a team on Discord or at one of our meetings.
